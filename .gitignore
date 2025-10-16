@@ -1,0 +1,12 @@
+# Virtual environment
+.venv/
+__pycache__/
+*.ipynb_checkpoints/
+
+# Dashboard files (optional if using Power BI)
+*.pbix
+*.twbx
+
+# OS files
+.DS_Store
+Thumbs.db
